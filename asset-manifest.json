@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/shashankshrivastav/static/css/main.3f9bd1fe.css",
-    "main.js": "/shashankshrivastav/static/js/main.2c508784.js",
+    "main.js": "/shashankshrivastav/static/js/main.c1c56e8e.js",
     "static/js/787.1ed0c42c.chunk.js": "/shashankshrivastav/static/js/787.1ed0c42c.chunk.js",
     "static/media/portfolio2.jpg": "/shashankshrivastav/static/media/portfolio2.24159ede0f35ffdd0fb3.jpg",
-    "static/media/Shashank Shrivastav-CV.pdf": "/shashankshrivastav/static/media/Shashank Shrivastav-CV.fc1004b86728d7db0c21.pdf",
     "static/media/me-about.jpg": "/shashankshrivastav/static/media/me-about.a152b03443aed2de5925.jpg",
     "static/media/portfolio6.png": "/shashankshrivastav/static/media/portfolio6.aa6d8e55cb5b248b6a4f.png",
     "static/media/portfolio5.jpg": "/shashankshrivastav/static/media/portfolio5.f3c96a6ce68233e4f89a.jpg",
@@ -12,11 +11,11 @@
     "static/media/portfolio1.jpg": "/shashankshrivastav/static/media/portfolio1.cfd9b1675613c571a817.jpg",
     "index.html": "/shashankshrivastav/index.html",
     "main.3f9bd1fe.css.map": "/shashankshrivastav/static/css/main.3f9bd1fe.css.map",
-    "main.2c508784.js.map": "/shashankshrivastav/static/js/main.2c508784.js.map",
+    "main.c1c56e8e.js.map": "/shashankshrivastav/static/js/main.c1c56e8e.js.map",
     "787.1ed0c42c.chunk.js.map": "/shashankshrivastav/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f9bd1fe.css",
-    "static/js/main.2c508784.js"
+    "static/js/main.c1c56e8e.js"
   ]
 }
